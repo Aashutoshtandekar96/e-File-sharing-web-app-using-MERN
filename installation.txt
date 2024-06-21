@@ -1,0 +1,29 @@
+npm init -y
+
+
+/* connect mongo db server */
+
+// all command line by line in vs code terminal
+
+
+npm i express@4.17.1
+npm i http@0.0.1-security
+npm i mongodb@3.6.6
+npm i ejs@3.1.6
+npm i bcrypt@5.0.1
+npm i express-formidable@1.2.0
+npm i express-session@1.17.1
+npm i fs@0.0.1-security
+npm i -g nodemon
+npm i nodemailer
+
+
+// grp  member instructions
+
+just connect mongodb-compass
+
+
+
+
+
+
